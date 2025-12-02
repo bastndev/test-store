@@ -14,6 +14,9 @@ bun add lucide-react
 ```bash
 bunx --bun shadcn@latest init
 ```
+```bash
+bunx --bun shadcn@latest add button
+```
 
 4. Move folders from /src/
 
