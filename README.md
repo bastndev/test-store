@@ -20,7 +20,7 @@ bunx --bun shadcn@latest init
 5. install next-themes
 
 ```bash
-bun install next-themes
+bun add next-themes
 ```
 
 6. Configure next-themes and create button in /theme-toggle.tsx
