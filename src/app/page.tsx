@@ -12,9 +12,10 @@ export default function Home() {
           <ThemeToggle />
         </div>
 
-        <div>
+        {/* section */}
+        <section>
           <Carousel />
-        </div>
+        </section>
       </main>
     </div>
   );
